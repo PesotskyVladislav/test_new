@@ -1,10 +1,14 @@
-﻿Сборка начата 28.02.2019 1:28:39.
-     1>Проект "C:\lab3_test\Libapp\Libapp.vcxproj" в узле 2 (целевые объекты Build).
+﻿Сборка начата 28.02.2019 1:39:38.
+     1>Проект "C:\lab3_test_new\Libapp\Libapp.vcxproj" в узле 2 (целевые объекты Build).
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
-     1>Lib:
-         Libapp.vcxproj -> C:\lab3_test\build\lib\Debug\x32\Libapp.lib
-     1>Сборка проекта "C:\lab3_test\Libapp\Libapp.vcxproj" завершена (целевые объекты Build).
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\lab3_test_new\build\obj\Debug\x32\\Libapp\\" /Fd"C:\lab3_test_new\build\obj\Debug\x32\\Libapp\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt calc.cpp
+         calc.cpp
+       Lib:
+         E:\vs2013\VC\bin\Lib.exe /OUT:"C:\lab3_test_new\build\lib\Debug\x32\Libapp.lib" /NOLOGO C:\lab3_test_new\build\obj\Debug\x32\\Libapp\calc.obj
+         Libapp.vcxproj -> C:\lab3_test_new\build\lib\Debug\x32\Libapp.lib
+     1>Сборка проекта "C:\lab3_test_new\Libapp\Libapp.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:00.06
+Затраченное время: 00:00:00.82

@@ -1,0 +1,2 @@
+test_script:
+  - cmd: C:\projects\test-new\build\lib\Debug\x32\testapp.exe
