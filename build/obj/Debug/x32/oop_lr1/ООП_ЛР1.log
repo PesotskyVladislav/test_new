@@ -1,0 +1,15 @@
+﻿Сборка начата 28.02.2019 1:28:24.
+     1>Проект "C:\lab3_test\ООП_ЛР1\ООП_ЛР1.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\lab3_test\build\obj\Debug\\x32\\oop_lr1\\" /Fd"C:\lab3_test\build\obj\Debug\\x32\\oop_lr1\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\lab3_test\ооп_лр1\main.cpp(17): warning C4101: t: неиспользованная локальная переменная
+       Link:
+         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\lab3_test\build\bin\Debug\\x32\oop_lr1.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\lab3_test\build\lib\Debug\\x32\ Libapp.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\lab3_test\build\bin\Debug\\x32\oop_lr1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\lab3_test\build\bin\Debug\\x32\oop_lr1.lib" /MACHINE:X86 C:\lab3_test\build\obj\Debug\\x32\\oop_lr1\main.obj
+         ООП_ЛР1.vcxproj -> C:\lab3_test\build\bin\Debug\\x32\oop_lr1.exe
+     1>Сборка проекта "C:\lab3_test\ООП_ЛР1\ООП_ЛР1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.83

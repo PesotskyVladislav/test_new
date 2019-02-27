@@ -1,0 +1,11 @@
+﻿Сборка начата 23.11.2017 14:26:40.
+     1>Проект "C:\Users\roy_f\Desktop\ООП_ЛР1\ООП_ЛР1\ООП_ЛР1.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>Link:
+         D:\с\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\roy_f\Desktop\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\roy_f\Desktop\ООП_ЛР1\build\lib\Debug\\x32\\" Libapp.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\roy_f\Desktop\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\roy_f\Desktop\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.lib" /MACHINE:X86 "C:\Users\roy_f\Desktop\ООП_ЛР1\build\obj\Debug\\x32\\ООП_ЛР1\main.obj"
+         ООП_ЛР1.vcxproj -> C:\Users\roy_f\Desktop\ООП_ЛР1\build\bin\Debug\\x32\ООП_ЛР1.exe
+     1>Сборка проекта "C:\Users\roy_f\Desktop\ООП_ЛР1\ООП_ЛР1\ООП_ЛР1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.13
