@@ -1,13 +1,9 @@
-﻿Сборка начата 28.02.2019 1:39:38.
+﻿Сборка начата 28.02.2019 1:51:13.
      1>Проект "C:\lab3_test_new\libgtest\libgtest.vcxproj" в узле 3 (целевые объекты Build).
-     1>ClCompile:
-         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\lab3_test_new\build\obj\Debug\x32\libgtest\\" /Fd"C:\lab3_test_new\build\obj\Debug\x32\libgtest\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "src\gtest-all.cc"
-         gtest-all.cc
-       Lib:
-         E:\vs2013\VC\bin\Lib.exe /OUT:"C:\lab3_test_new\build\lib\Debug\x32\libgtest.lib" /NOLOGO "C:\lab3_test_new\build\obj\Debug\x32\libgtest\gtest-all.obj"
+     1>Lib:
          libgtest.vcxproj -> C:\lab3_test_new\build\lib\Debug\x32\libgtest.lib
      1>Сборка проекта "C:\lab3_test_new\libgtest\libgtest.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:02.41
+Затраченное время: 00:00:00.03

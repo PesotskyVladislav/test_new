@@ -1,16 +1,9 @@
-﻿Сборка начата 28.02.2019 1:39:40.
+﻿Сборка начата 28.02.2019 1:51:13.
      1>Проект "C:\lab3_test_new\testapp\testapp.vcxproj" в узле 2 (целевые объекты Build).
-     1>ClCompile:
-         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\lab3_test_new\build\obj\Debug\x32\testapp\\" /Fd"C:\lab3_test_new\build\obj\Debug\x32\testapp\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp test_calc.cpp
-         test_calc.cpp
-         main.cpp
-         Создание кода...
-       Link:
-         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\lab3_test_new\build\lib\Debug\x32\testapp.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\lab3_test_new\build\lib\Debug\x32\ libgtest.lib Libapp.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\lab3_test_new\build\lib\Debug\x32\testapp.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\lab3_test_new\build\lib\Debug\x32\testapp.lib" /MACHINE:X86 C:\lab3_test_new\build\obj\Debug\x32\testapp\main.obj
-         C:\lab3_test_new\build\obj\Debug\x32\testapp\test_calc.obj
+     1>Link:
          testapp.vcxproj -> C:\lab3_test_new\build\lib\Debug\x32\testapp.exe
      1>Сборка проекта "C:\lab3_test_new\testapp\testapp.vcxproj" завершена (целевые объекты Build).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:01.99
+Затраченное время: 00:00:00.03
